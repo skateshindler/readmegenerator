@@ -69,4 +69,5 @@ WHEN prompted for the developer's GitHub username and repo specific information
 
 THEN a README for the repo is generated
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/yar6352" data-context="false" ><a href="//imgur.com/a/yar6352"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+https://imgur.com/eTACARP
+
